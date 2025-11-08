@@ -65,20 +65,3 @@
 
 ---
 
-## 🗂️ Folder Structure
-
-01Portfolio-web-demo/
-│
-├── asset-preview/
-│ ├── lighttheme-preview.jpeg
-│ └── darktheme-preview.jpeg
-│
-├── images/
-│ └── 赤い空気感の男子.jpg
-│
-├── .gitignore
-├── .gitattributes
-├── index.html
-├── script.js
-├── style.css
-└── README.md_
